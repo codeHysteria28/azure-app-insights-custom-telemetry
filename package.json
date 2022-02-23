@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_custom_telemetry",
+  "version": "1.0.0",
+  "description": "Nodejs app with custom telemetry for Azure App Insights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Branislav Buna",
+  "license": "ISC",
+  "dependencies": {
+    "applicationinsights": "^2.2.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}

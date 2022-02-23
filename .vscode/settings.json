@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cf971b4d-f126-4632-ac87-00bd8e3443fd/resourceGroups/rg-nodejs-custom-telemetry/providers/Microsoft.Web/sites/nodejs-custom-telemetry",
+    "appService.deploySubpath": "."
+}
